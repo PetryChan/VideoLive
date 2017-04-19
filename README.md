@@ -23,7 +23,7 @@ IOS视频直播:高仿 腾讯旗下 【NOW】直播 ->映客直播类型 —— 
 
 效果图如下
 
-12
+![gifAnimate](https://github.com/PetryChan/VideoLive/blob/master/NowGif.gif) 
 
 12
 
