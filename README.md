@@ -5,7 +5,7 @@ NOW
 
 -已经准备好了一份打包好的分享给大家
 
--百度云盘链接: https://pan.baidu.com/s/1jIEZN8M 密码: igcq
+-百度云盘链接: https://pan.baidu.com/s/1c1OC6fI
 
 IOS视频直播:高仿 腾讯旗下 【NOW】直播 ->映客直播类型 —— 喜欢的记点star谢谢
 
