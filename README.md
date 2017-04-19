@@ -25,12 +25,12 @@ IOS视频直播:高仿 腾讯旗下 【NOW】直播 ->映客直播类型 —— 
 
 ![gifAnimate](https://github.com/PetryChan/VideoLive/blob/master/NowGif.gif) 
 
-12
+![gifAnimate](https://github.com/PetryChan/VideoLive/blob/master/image1.png) 
 
-12
+![gifAnimate](https://github.com/PetryChan/VideoLive/blob/master/image2.png) 
 
 已增加了对IPad的适配，更加丝滑流畅
 
-12
+![gifAnimate](https://github.com/PetryChan/VideoLive/blob/master/img_0257.png) 
 
-12
+![gifAnimate](https://github.com/PetryChan/VideoLive/blob/master/img_0258.png) 
